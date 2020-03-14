@@ -1,0 +1,1 @@
+{"ast":null,"code":"var GET_DATA = 'GET_DATA';\nvar ADD_COMMENT = 'ADD_COMMENT';\nvar LIKE_COMMENT = 'LIKE_COMMENT';\nexport function ADD(post) {\n  return {\n    type: ADD_COMMENT,\n    index: post.index,\n    comment: post.comment\n  };\n}\nexport function GET(data) {\n  return {\n    type: GET_DATA,\n    data: data\n  };\n}","map":null,"metadata":{},"sourceType":"module"}

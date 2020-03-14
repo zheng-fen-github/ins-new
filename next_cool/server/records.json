@@ -1,0 +1,62 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/edit.js": 0,
+      "multi private-next-pages/home.js": 1,
+      "multi private-next-pages/index.js": 2,
+      "multi private-next-pages/post.js": 3,
+      "multi private-next-pages/sendPost.js": 4,
+      "multi private-next-pages/test.js": 5,
+      "multi private-next-pages/user.js": 6,
+      "multi next/dist/pages/_app": 7,
+      "multi next/dist/pages/_error": 8,
+      "multi next/dist/pages/_document": 9
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9
+    }
+  },
+  "chunks": {
+    "byName": {
+      "init-server.js": 0,
+      "on-error-server.js": 1,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\_app.js": 2,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\_document.js": 3,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\_error.js": 4,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\edit.js": 5,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\home.js": 6,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\index.js": 7,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\post.js": 8,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\sendPost.js": 9,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\test.js": 10,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\user.js": 11
+    },
+    "bySource": {
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/test.js ../component/test-component/dymain": 12
+    },
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

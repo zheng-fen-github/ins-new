@@ -1,0 +1,42 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "static/runtime/main.js": 2,
+      "static/runtime/polyfills.js": 3,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\_app.js": 4,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\_error.js": 5,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\edit.js": 6,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\home.js": 7,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\index.js": 8,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\post.js": 9,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\sendPost.js": 10,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\test.js": 11,
+      "static\\w2A-QiWATePkMF1FnkJ0z\\pages\\user.js": 12
+    },
+    "bySource": {
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/test.js ../component/test-component/dymain": 13
+    },
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

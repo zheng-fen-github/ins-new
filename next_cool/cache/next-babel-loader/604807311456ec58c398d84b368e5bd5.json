@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport Post from './home/addcontent/addPhoto/addphoto';\n\nfunction SendPost() {\n  return __jsx(React.Fragment, null, __jsx(Post, null));\n}\n\nexport default SendPost;","map":null,"metadata":{},"sourceType":"module"}

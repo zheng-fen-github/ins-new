@@ -1,0 +1,1 @@
+{"name":"insnext","version":"1.0.0","description":"","main":"index.js","scripts":{"dev":"next","build":"next build","start":"next start"},"keywords":[],"author":"","license":"ISC","dependencies":{"axios":"^0.19.2","next":"^9.1.6","react":"^16.12.0","react-dom":"^16.12.0","react-redux":"^7.2.0","redux":"^4.0.5"},"readme":"ERROR: No README data found!","_id":"insnext@1.0.0"}
