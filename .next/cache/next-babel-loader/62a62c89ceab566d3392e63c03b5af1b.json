@@ -1,0 +1,1 @@
+{"ast":null,"code":"import qu from './qu.json';\nconsole.log(qu);\nexport default ((req, res) => {\n  console.log(req.cookies);\n  res.setHeader('Set-Cookie', ['type=ninja', 'age=23']);\n\n  if (req.cookies) {\n    res.status(200).json(req.cookies);\n  }\n\n  res.status(200).json(qu);\n});","map":null,"metadata":{},"sourceType":"module"}
